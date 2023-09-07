@@ -25,7 +25,7 @@ function SecondPage() {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="https://angel-wings19.webnode.cz">
+                <a className="nav-link" href="https://rybarstvi-a-myslivost.webnode.cz">
                  Rybarstvi a myslivost
                 </a>
               </li>
