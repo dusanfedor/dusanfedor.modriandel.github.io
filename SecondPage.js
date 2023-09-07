@@ -26,7 +26,7 @@ function SecondPage() {
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="https://angel-wings19.webnode.cz">
-                  Whisky
+                 Rybarstvi a myslivost
                 </a>
               </li>
               <li className="nav-item">
